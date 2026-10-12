@@ -1,6 +1,6 @@
 # Insurance Customer Response Prediction
 
-Predicting which customers will say **yes** to a vehicle-insurance cross-sell offer, so marketing can focus on the people most likely to convert.
+Built a predictive classification engine to forecast customer responses to insurance offers, enabling high-precision targeted marketing and optimized sales channel allocation.
 
 
 ## Project at a glance
