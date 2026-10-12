@@ -1,6 +1,6 @@
 # Insurance Customer Response Prediction
 
-Predicting which existing health-insurance customers will say **yes** to a vehicle-insurance cross-sell offer, so marketing can focus on the people most likely to convert.
+Predicting which customers will say **yes** to a vehicle-insurance cross-sell offer, so marketing can focus on the people most likely to convert.
 
 
 ## Project at a glance
